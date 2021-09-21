@@ -26,29 +26,30 @@ function Projects() {
   </div>
 
   <div className="column">
-    <a href="https://github.com/MSarfarazH/tech-blog-app"/>
+    <a href="https://github.com/MSarfarazH/tech-blog-app">
     <div className="content2">
     <img src="./tech-blog-icon.png" alt="letter-icon" style={elemStyle}/>
       <h3>Tech Blog App</h3>
     </div>
+    </a>
   </div>
 
   <div className="column">
-    <a href="https://github.com/MSarfarazH/work-day-scheduler"/>
+    <a href="https://github.com/MSarfarazH/work-day-scheduler">
     <div className="content2">
     <img  src="./scheduler-icon.png" alt="calender-icon" style={elemStyle}/>
       <h3>Work Day Scheduler</h3>
     </div>
-
+    </a>
   </div>
   
   <div className="column">
-    <a href="https://github.com/MSarfarazH/workout-tracker"/>
+    <a href="https://github.com/MSarfarazH/workout-tracker">
     <div className="content2">
     <img  src="./workout-icon.png" alt="fitness-icon" style={elemStyle}/>
       <h3>Workout Tracker</h3>
     </div>
-
+    </a>
   </div>
 
 </div>
