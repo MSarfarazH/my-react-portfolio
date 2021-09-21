@@ -61,10 +61,22 @@ ul {
   h2 {
     font-size: 25px;
     font-family: Century Gothic;
+    margin-block-end: auto;
+    margin-block-start: auto;
+    margin-inline-start: auto;
+    margin-inline-end: 0px;
+    text-align: center;
   }
   
   p {
     font-family: Century Gothic;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 100px;
+    margin-inline-end: 100px;
+    text-align: center;
+
   }
   
   .row {
@@ -96,7 +108,7 @@ ul {
   
     padding: 10px;
     flex: 0 0 300px;
-    box-shadow: 10px 10px 5px #aaaaaa;
+    box-shadow: 10px 10px 5px #000000;
     margin: 20px;
   }
   .content2 {
@@ -105,7 +117,7 @@ ul {
     height: 245px;
     padding: 10px;
     flex: 0 0 300px;
-    box-shadow: 10px 10px 5px #aaaaaa;
+    box-shadow: 10px 10px 5px #000000;
     margin: 20px;
   }
   
