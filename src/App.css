@@ -48,7 +48,7 @@ ul {
   .main {
     max-width: 1000px;
     margin: auto;
-    text-align:center
+    text-align:center;
   }
   
   h1 {
@@ -59,7 +59,7 @@ ul {
   }
   
   h2 {
-    font-size: 25px;
+    font-size: 30px;
     font-family: Century Gothic;
     margin-block-end: auto;
     margin-block-start: auto;
@@ -67,16 +67,25 @@ ul {
     margin-inline-end: 0px;
     text-align: center;
   }
+
+  h3 {
+    display: block;
+    font-family: Century Gothic;
+    font-size: 1.25em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
   
   p {
     font-family: Century Gothic;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
-    margin-inline-start: 100px;
-    margin-inline-end: 100px;
     text-align: center;
-
+    font-size: 1.25em;
   }
   
   .row {
@@ -105,12 +114,12 @@ ul {
   .content {
     border-style: solid;
     border-width: 1px;
-  
     padding: 10px;
     flex: 0 0 300px;
     box-shadow: 10px 10px 5px #000000;
     margin: 20px;
   }
+
   .content2 {
     border-style: solid;
     border-width: 1px;
@@ -139,13 +148,13 @@ ul {
   .footer {
     display: inline-block;
     font-family: Arial;
-    position: bottom;
     width: 100%;
     background-color: #333;
     color: white;
     text-align: center;
-    
-  }
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
   
   #gh {
     color: white;
