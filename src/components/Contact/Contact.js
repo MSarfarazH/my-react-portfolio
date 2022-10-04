@@ -10,7 +10,7 @@ function Contact() {
   <p>
   <a id="gh" href="https://github.com/MSarfarazH">My GitHub </a>&nbsp;&nbsp;&nbsp;
   <a id="li" href="https://www.linkedin.com/in/msarfarazh/">My LinkedIn </a>&nbsp;&nbsp;&nbsp;
-  <a id="resume" href="https://zety.com/profile/msh-resume">My Resume </a>
+  <a id="resume" href="https://docs.google.com/document/d/1m665qUYlrd208gYu7htkeQB2FKVdsAvN/edit?usp=sharing&ouid=102974906109207369667&rtpof=true&sd=true">My Resume </a>
   </p>
     </section>
 </div>
