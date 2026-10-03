@@ -9,7 +9,7 @@ function AboutMe() {
         Software Engineer focused on driving measurable results and producing
         cutting edge systems through agile. Accomplished development projects
         using Rails and React JS that have resulted in dynamic web applications.
-        Consistent performer across multiple projects that include Rails, React
+        Consistent performer across multiple projects that include Java, React
         JS(MERN Stack) and Python software development.
       </p>
     </div>
