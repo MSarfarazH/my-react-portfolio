@@ -420,7 +420,7 @@ function App() {
                 that make them work.
               </p>
               <p>
-                My development experience includes React, the MERN stack, Rails,
+                My development experience includes Java, React, the MERN stack, Rails,
                 and Python. I value readable code, practical problem-solving,
                 and collaboration that moves a project forward.
               </p>
